@@ -339,30 +339,7 @@ ul {
   padding: 12px;
 }
 
-/* CTA */
-.cta {
-  padding: 100px 48px;
-  background: #ede9fe;
-  border: 2px dashed #a78bfa;
-  border-radius: 16px;
-  margin: 48px;
-  text-align: center;
-}
 
-.cta h2 {
-  font-size: 40px;
-  font-weight: 800;
-  color: #7c3aed;
-  margin-bottom: 12px;
-}
-
-.cta p {
-  font-size: 22px;
-  color: #8b5cf6;
-  font-weight: 600;
-}
-
-/* Footer */
 /* Footer */
 .footer {
   background: #111827;
